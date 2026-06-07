@@ -1,3 +1,4 @@
+The follosing portion is instructions from Full Sail Univserity Introduction to Web Development class.
 Overview
 
 The objective of this exercise is to create a web page using HTML. This exercise will cover all the topics introduced in the previous activities. Note: Please make sure you have watched all the lesson videos and the weekly Zoom meeting and completed the Knowledge Check before attempting it.
